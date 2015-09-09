@@ -1,0 +1,22 @@
+{
+  "name": "http_persistance",
+  "version": "0.1.0",
+  "description": "http server with simple persistance",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumji/http-server-persistance.git"
+  },
+  "keywords": [
+    "http-server"
+  ],
+  "author": "kumji.p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumji/http-server-persistance/issues"
+  },
+  "homepage": "https://github.com/kumji/http-server-persistance#readme"
+}
