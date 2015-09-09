@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/kumji/http-server-persistance/issues"
   },
-  "homepage": "https://github.com/kumji/http-server-persistance#readme"
+  "homepage": "https://github.com/kumji/http-server-persistance#readme",
+  "devDependencies": {
+    "jsonfile": "^2.2.1",
+    "mocha": "^2.3.2"
+  },
+  "dependencies": {
+    "kj-http-router": "^0.1.0"
+  }
 }
