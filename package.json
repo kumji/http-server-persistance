@@ -20,10 +20,14 @@
   },
   "homepage": "https://github.com/kumji/http-server-persistance#readme",
   "devDependencies": {
+    "chai": "^1.10.0",
+    "chai-fs": "^0.1.0",
+    "chai-http": "^1.0.0",
     "jsonfile": "^2.2.1",
     "mocha": "^2.3.2"
   },
   "dependencies": {
-    "kj-http-router": "^0.1.0"
+    "kj-http-router": "^0.1.0",
+    "mongoose": "^4.1.7"
   }
 }
